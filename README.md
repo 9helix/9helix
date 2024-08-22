@@ -10,7 +10,11 @@
 
 ###
 
-<p align="left">- Experienced in machine learning, website and app development, and scientific research<br>- Strong foundation in mentoring and project management<br>- Proficient in TensorFlow, Vue.js, and SQL<br>- Passionate about using software development to drive innovation in both academic and technical fields</p>
+
+- Experienced in machine learning, website and app development, and scientific research
+- Strong foundation in mentoring and project management
+- Proficient in TensorFlow, Vue.js, and SQL
+- Passionate about using software development to drive innovation in both academic and technical fields
 
 ###
 
@@ -45,10 +49,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
 </div>
-
-###
-
-<p align="left">Hello World!!</p>
 
 ###
 
