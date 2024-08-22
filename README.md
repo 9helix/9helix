@@ -1,8 +1,8 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Hi 👋</h1>
 
 ###
 
-<p align="left">My name is ... and I'm a ..., from ....</p>
+<p align="left">I'm Dino Gržinić, a Computer Science student and Junior Software Developer skilled in Python, C++, and C#.</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">- Experienced in machine learning, website and app development, and scientific research<br>- Strong foundation in mentoring and project management<br>- Proficient in TensorFlow, Vue.js, and SQL<br>- Passionate about using software development to drive innovation in both academic and technical fields</p>
 
 ###
 
@@ -45,6 +45,10 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
 </div>
+
+###
+
+<p align="left">Hello World!!</p>
 
 ###
 
