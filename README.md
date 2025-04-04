@@ -13,7 +13,6 @@
 
 - Experienced in machine learning, website and app development, and scientific research
 - Strong foundation in mentoring and project management
-- Proficient in TensorFlow, Vue.js, and SQL
 - Passionate about using software development to drive innovation in both academic and technical fields
 
 ###
