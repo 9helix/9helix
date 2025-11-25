@@ -62,7 +62,7 @@
 ###
 
 <div align="center">
-<img  src="https://github-readme-stats.vercel.app/api?username=9helix&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="my Github Stats"/>
+<img  src="https://github-readme-stats.vercel.app/api?username=9helix&show_icons=true&theme=dracula" alt="my Github Stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=9helix&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
