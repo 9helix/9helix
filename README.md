@@ -25,6 +25,6 @@ Focused on **AI/ML model development and production pipelines** — with a backg
 
 ---
 
-Currently working at [Global Meteor Network](https://globalmeteornetwork.org/). Previously at RIS d.o.o. Hackathon finalist · National STEM Scholar.
+Currently contributing to [Global Meteor Network](https://globalmeteornetwork.org/).
 
 [grzinicdino@gmail.com](mailto:grzinicdino@gmail.com) · [LinkedIn](https://www.linkedin.com/in/grzinicdino)
