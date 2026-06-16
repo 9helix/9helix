@@ -1,69 +1,59 @@
-<h1 align="left">Hi 👋</h1>
+# Dino Gržinić
 
-###
+Computer Science grad student · Junior Software Developer · Based in Croatia
 
-<p align="left">I'm Dino Gržinić, a Computer Science student and Junior Software Developer skilled in Python, C++, and C#.</p>
+I build things at the intersection of **AI/ML pipelines**, **systems infrastructure**, and **full-stack development** — from training neural networks on scientific imagery to shipping Android apps and self-hosted server stacks.
 
-###
+Right now I'm focused on developing AI models and the optimized pipelines that make them actually usable in production.
 
-<h2 align="left">About me</h2>
+---
 
-###
+## What I'm working on
 
+**AI & machine learning** — Training models for visual detection of atmospheric events (sprites, meteors) using YOLO and CNNs. Building a local RAG-powered chatbot for astronomy knowledge. Wiring models into real pipelines for organizations that depend on them.
 
-- Experienced in machine learning, website and app development, and scientific research
-- Strong foundation in mentoring and project management
-- Passionate about using software development to drive innovation in both academic and technical fields
+**Infrastructure** — Running a homelab with 20+ self-hosted services behind a hardened Docker/Traefik stack. Security, observability, and automated ops included.
 
-###
+**Apps & backends** — Android apps, REST/SOAP integrations, React frontends, database design. I've worked across the stack in professional and open-source contexts.
 
-<h2 align="left">I code with</h2>
+---
 
-###
+## Selected projects
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  /><br>
- 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  /><br>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="docker logo"  />
-</div>
+| Project | What it does |
+|---|---|
+| [SpriteNet](https://github.com/9helix/SpriteNet) | YOLO-based detection of Transient Luminous Events (sprites) in atmospheric images |
+| [GMNmeteorNet](https://github.com/9helix/GMNmeteorNet) | CNN pipeline for binary meteor classification in Global Meteor Network camera feeds |
+| [AstroRAG](https://github.com/9helix/AstroRAG) | Local RAG chatbot for astronomy — concepts, history, missions, methods |
+| [MeteorObsApp](https://github.com/9helix/MeteorObsApp) | Android app for logging visual meteor observations and exporting to IMO-compatible CSV |
+| [Homelab](https://github.com/9helix/homelab) | Docker container orchestration with Traefik, CrowdSec, Authelia, Grafana, and more |
 
-###
+---
 
-<div align="center">
-<img  src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=9helix&theme=github_dark" alt="my Github Stats"/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=9helix&theme=github_dark&exclude="/>
-</div>
+## Tech I reach for
 
-###
+**Languages:** Python · JavaScript / TypeScript · Kotlin · C++ · C# · PHP · Rust (learning)
+
+**AI/ML:** TensorFlow · PyTorch · YOLO · CNNs · RAG pipelines
+
+**Web & mobile:** React · Vue.js · Django · Flutter · Node.js
+
+**Infrastructure:** Docker · Linux · Traefik · Cloudflare · Redis · Git
+
+---
+
+## Background
+
+- **Software Developer** at [Global Meteor Network](https://globalmeteornetwork.org/) — maintaining distributed Raspberry Pi camera stations and building automation tooling (Jan 2024–present)
+- **Junior Software Developer** at RIS d.o.o. — PL/SQL, PHP, Android/Kotlin, API integrations (Feb 2024–Jan 2026)
+- **Algorithm & Data Structures tutor**, Faculty of Informatics and Digital Technologies, Rijeka
+- MSc Computer Science student (ongoing) · Deep Learning Specialization, Coursera
+- 2nd place, Ri-Hack 24h Hackathon · National STEM Scholarship recipient
+
+---
+
+## Get in touch
+
+Open to collaboration on open-source AI/ML projects, scientific computing, or anything that needs someone who can work across the stack.
+
+[grzinicdino@gmail.com](mailto:grzinicdino@gmail.com) · [LinkedIn](https://www.linkedin.com/in/grzinicdino) · [GitHub](https://github.com/9helix)
