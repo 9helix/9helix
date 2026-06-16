@@ -17,6 +17,12 @@ Focused on **AI/ML model development and production pipelines** — with a backg
 
 ---
 
+## Homelab
+
+Designed and maintained a Docker-based homelab with 20+ services (Forgejo, Vaultwarden, Matrix, Open WebUI, Ollama) using Traefik as a reverse proxy, CrowdSec intrusion detection, and Authelia for SSO/2FA. Infrastructure is monitored with Grafana, InfluxDB, and Uptime Kuma. Check it out at [home.foobardevs.com](https://home.foobardevs.com).
+
+---
+
 ## Tech
 
 **AI/ML:** Python · TensorFlow · PyTorch · YOLO · RAG pipelines  
