@@ -1,6 +1,6 @@
 # Dino Gržinić
 
-CS grad student · Junior Software Developer · Croatia
+CS grad student.
 
 Focused on **AI/ML model development and production pipelines** — with a background across full-stack, mobile, and infrastructure work.
 
